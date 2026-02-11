@@ -1,4 +1,8 @@
 #  Smart Age Calculator
+#  Author
+
+Chilla Nagaraju  
+Aspiring Data Analyst | Python Developer
 
 A simple and elegant Streamlit web app that calculates your exact age in:
 
@@ -11,10 +15,10 @@ A simple and elegant Streamlit web app that calculates your exact age in:
 
 ##  Features
 
-✅ Date of Birth selection  
-✅ Exact age calculation  
-✅ Total hours, minutes & seconds  
-✅ Clean UI  
+1. Date of Birth selection  
+2. Exact age calculation  
+3. Total hours, minutes & seconds  
+4. Clean UI  
 
 ##  Built With
 
